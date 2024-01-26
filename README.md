@@ -4,7 +4,7 @@ Multi-Signature Wallet Provider is a web3 application that offers multi-signatur
 This app was built in react and uses ethers.js to communicate with the blockchain.
 
 ## Description
-This repository contains the frontend part of the application as a whole. It provides a user friendly interface to communicate with the smart contracts that are the vital part of the system.
+This repository contains the frontend part of the application as a whole. It provides a user friendly interface to communicate with the smart contracts that are the vital part of the system.  
 The smart contracts: https://github.com/andreregosd/multisig-wallet-factory
 
 ## How it works
