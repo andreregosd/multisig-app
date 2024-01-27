@@ -5,7 +5,7 @@ This app was built in react and uses ethers.js to communicate with the blockchai
 
 ## Description
 This repository contains the frontend part of the application as a whole. It provides a user friendly interface to communicate with the smart contracts that are the vital part of the system.  
-The smart contracts: https://github.com/andreregosd/multisig-wallet-factory
+[Smart contracts](https://github.com/andreregosd/multisig-wallet-factory)
 
 ## How it works
  - Open the web app
