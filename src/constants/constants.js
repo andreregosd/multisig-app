@@ -1,4 +1,4 @@
-export const multisigFactoryAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+export const multisigFactoryAddress = "0xD8A06F3c4e92C7cB061B4956D9872FAEAaaaB0e7";
 
 export const multisigFactoryAbi = [
   {
